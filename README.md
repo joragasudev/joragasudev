@@ -31,7 +31,7 @@
     <tr>
       <td><a href="https://github.com/joragasudev/copi"><b>Copi 🖇️</b></a></td>
       <td><p>A notetaking app where you can copy notes to your clipboard with a single tap/click.</p></td>
-      <td><p>I needed to respond quickly and personally to numerous frequently asked questions, but I found that social media platforms either do not offer quick responses or do not function correctly. Motivated by this situation, I created an app that allowed me to copy quick responses with just one click, allowing me to answer questions from the community efficiently and fast.</p></td>
+      <td><p>I needed to respond quickly and personally to numerous frequently asked questions, but I found that social media platforms either do not offer quick responses or do not function correctly. Motivated by this situation, I created an app to copy quick responses with just one click, allowing me to answer questions from the community efficiently and fast.</p></td>
       <td><p>HTML, CSS, JAVASCRIPT, React, IndexedDB, Progressive Web App.</p></td>
     </tr>
     <tr>
@@ -43,14 +43,20 @@
     <tr>
       <td><a href="https://github.com/joragasudev/multiplayer-tanks-game"><b>Multiplayer Tanks Game 💥</b></a></td>
       <td><p>A tiny multiplayer retro game where you can battle with tanks using with your phone or computer.</p></td>
-      <td><p>A fun project i used to learn Node JS along with Express and Socket.io, and Phaser 3 game engine.</p></td>
+      <td><p>A fun project i made to learn Node JS along with Express, Socket.io, and Phaser 3 game engine.</p></td>
       <td><p>JAVASCRIPT, NodeJS, Express, Socket.io, Phaser3</p></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/joragasudev/mini-screen-recorder"><b>Mini Screen Recorder 🎦</b></a></td>
+      <td><p>A mini web screen/audio recorder. Capture your screen without registration or limitations, offline too!. </p></td>
+      <td><p>I wanted a way for my friends to easily share small screen recordings with me without the need to install additional software on their devices. I also wanted to learn how to use the browser's MediaStream API.</p></td>
+      <td><p>HTML, CSS, JAVASCRIPT, Progressive Web App.</p></td>
     </tr>
   </tbody>
 </table>
 
-<h3>📬 Reach me here:</h3>
-<p><a href="https://twitter.com/joragasudev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://github.com/joragasudev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jose-ramon-garcia-delgado" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h3>📬 Reach me if you want to talk!:</h3>
+<p><a href="https://x.com/joragasudev" target="_blank"><img alt="X.com" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://github.com/joragasudev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jose-ramon-garcia-delgado" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
