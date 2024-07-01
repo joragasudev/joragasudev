@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/joragasudev/multiplayer-tanks-game"><b>Multiplayer Tanks Game 💥</b></a></td>
-      <td><p>A tiny multiplayer retro game where you can battle with tanks using with your phone or computer.</p></td>
+      <td><p>A tiny multiplayer retro game where you can battle with tanks using your phone or computer.</p></td>
       <td><p>A fun project i made to learn Node JS along with Express, Socket.io, and Phaser 3 game engine.</p></td>
       <td><p>JAVASCRIPT, NodeJS, Express, Socket.io, Phaser3</p></td>
     </tr>
